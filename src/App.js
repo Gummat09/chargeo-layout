@@ -16,6 +16,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+
+          Sithuliso Updated 
         </a>
       </header>
     </div>
